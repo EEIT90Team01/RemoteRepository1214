@@ -7,8 +7,8 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>Home</title>
 </head>
-<<<<<<< HEAD
 <body>
+<h1>戴碩延</h1>
 <h1>劉冠霆</h1>
 <h1>馮明五</h1>
 <h1>費德勒</h1>
