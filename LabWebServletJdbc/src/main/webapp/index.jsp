@@ -12,7 +12,6 @@
 <h1>劉冠霆</h1>
 <h1>馮明五</h1>
 <h1>費德勒</h1>
-
 <h3>Welcome ${user.email}</h3>
 <h3><a href="<c:url value="/secure/login.jsp"/>">Login</a></h3>
 <h3><a href="<c:url value="/pages/product.jsp"/>">Product</a></h3>
