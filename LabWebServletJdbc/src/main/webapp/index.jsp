@@ -8,6 +8,7 @@
 <title>Home</title>
 </head>
 <body>
+
 <h1>Kelsey</h1>
 <h1>戴碩延</h1>
 <h1>劉冠霆</h1>
@@ -17,6 +18,5 @@
 <h3><a href="<c:url value="/secure/login.jsp"/>">Login</a></h3>
 <h3><a href="<c:url value="/pages/product.jsp"/>">Product</a></h3>
 
->>>>>>> branch 'master' of https://github.com/EEIT90Team01/RemoteRepository1214.git
 </body>
 </html>
